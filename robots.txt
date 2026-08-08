@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://outdoorlivingpro.com/blog-outdoorlivingpro/sitemap.xml
